@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mahesh Paliwal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Go & Python
+- 🌱 I’m currently learning Go, Python & Ruby
 - 💞️ I’m looking to collaborate on Go Libraries 
 - 📫 How to reach me www.maheshpaliwal.com
 
